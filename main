@@ -1,2 +1,2 @@
 #！/bin/bash
-prit("hello world");
+print("hello world");
